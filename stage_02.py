@@ -1,4 +1,4 @@
 with open("artifacts01.txt","r") as f:
     text=f.read()
 
-print(text ,"stage 2")
+print(text ,"stage 2 --")
